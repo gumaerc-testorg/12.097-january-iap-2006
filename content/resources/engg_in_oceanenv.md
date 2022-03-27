@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4007a382-83e8-f551-b81c-00d4400717fc
 resourcetype: Document
 title: engg_in_oceanenv.pdf
 uid: ea7a5866-bdc9-d3da-8b4d-e17be55b8682

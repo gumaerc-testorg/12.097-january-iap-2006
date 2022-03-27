@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4007a382-83e8-f551-b81c-00d4400717fc
 resourcetype: Document
 title: elect_n_pwr_src.pdf
 uid: 45c75199-1acf-a009-146e-c725559f5a74

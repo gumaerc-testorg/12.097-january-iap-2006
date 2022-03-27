@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4007a382-83e8-f551-b81c-00d4400717fc
 resourcetype: Document
 title: nutriee_biopr.pdf
 uid: 8c7b2d37-0d72-58df-fcd8-04fbb1505944

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4007a382-83e8-f551-b81c-00d4400717fc
 resourcetype: Document
 title: acoustics.pdf
 uid: 68924b35-2b0b-81bb-8543-ff228ceeab73

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 18daab92-08d5-e90d-5bc5-b809a615cca4
 resourcetype: Document
 title: chemi_tour_sched.pdf
 uid: 7e70c810-3ec3-3eaa-f478-3a9da9a555f3

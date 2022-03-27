@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 18daab92-08d5-e90d-5bc5-b809a615cca4
 resourcetype: Document
 title: nitrate_lab.pdf
 uid: 5e4d3b04-d4fd-052a-8e1f-61ca874c9bc7

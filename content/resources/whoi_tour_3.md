@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 18daab92-08d5-e90d-5bc5-b809a615cca4
 resourcetype: Document
 title: whoi_tour_3.pdf
 uid: 9923430d-0bcd-1645-19b8-54b82d9eb450

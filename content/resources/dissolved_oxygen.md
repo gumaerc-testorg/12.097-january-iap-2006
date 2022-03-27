@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 18daab92-08d5-e90d-5bc5-b809a615cca4
 resourcetype: Document
 title: dissolved_oxygen.pdf
 uid: bfec1d2a-ade7-c814-f43c-4eb138cc4398

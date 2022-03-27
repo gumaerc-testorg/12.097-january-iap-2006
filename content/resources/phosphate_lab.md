@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 18daab92-08d5-e90d-5bc5-b809a615cca4
 resourcetype: Document
 title: phosphate_lab.pdf
 uid: 00f99f76-575f-6238-d940-7fe38b19fd86
