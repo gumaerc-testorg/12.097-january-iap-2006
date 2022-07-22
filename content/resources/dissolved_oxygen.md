@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/bfec1d2aade7c814f43c4eb138cc4398_dissolved_oxygen.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/bfec1d2aade7c814f43c4eb138cc4398_dissolved_oxygen.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

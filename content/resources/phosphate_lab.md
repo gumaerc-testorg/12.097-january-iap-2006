@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/00f99f76575f6238d9407fe38b19fd86_phosphate_lab.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/00f99f76575f6238d9407fe38b19fd86_phosphate_lab.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/8c7b2d370d7258dffcd804fbb1505944_nutriee_biopr.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/8c7b2d370d7258dffcd804fbb1505944_nutriee_biopr.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
