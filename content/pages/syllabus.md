@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains objectives and an overview, list of required materials
+  for the course, grading criteria and information about the instructures.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
