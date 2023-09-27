@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the list of suggestions during the lab.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -12,18 +13,18 @@ Lab Protocols
 
 In these lab exercises, students learn how to determine the concentration of biologically significant solutes in water samples using standard methods of chemistry.
 
-1.  Dissolved Oxygen ([PDF]({{< baseurl >}}/resources/dissolved_oxygen))
-2.  Nitrate ([PDF]({{< baseurl >}}/resources/nitrate_lab))
-3.  Phosphate ([PDF]({{< baseurl >}}/resources/phosphate_lab))
+1.  Dissolved Oxygen ({{% resource_link bfec1d2a-ade7-c814-f43c-4eb138cc4398 "PDF" %}})
+2.  Nitrate ({{% resource_link 5e4d3b04-d4fd-052a-8e1f-61ca874c9bc7 "PDF" %}})
+3.  Phosphate ({{% resource_link 00f99f76-575f-6238-d940-7fe38b19fd86 "PDF" %}})
 
 Lab Tours
 ---------
 
 Visits to WHOI labs give students the opportunity to learn about current research in oceanography and ocean engineering.
 
-1.  Coastal Oceanographers ([PDF]({{< baseurl >}}/resources/coasta_tour_sche))
-2.  Chemical Instrumentation ([PDF]({{< baseurl >}}/resources/chemi_tour_sched))
-3.  Ocean Engineering ([PDF]({{< baseurl >}}/resources/whoi_tour_3))
+1.  Coastal Oceanographers ({{% resource_link c0428314-2fc9-8af5-a202-5fd6fa948b37 "PDF" %}})
+2.  Chemical Instrumentation ({{% resource_link 7e70c810-3ec3-3eaa-f478-3a9da9a555f3 "PDF" %}})
+3.  Ocean Engineering ({{% resource_link 9923430d-0bcd-1645-19b8-54b82d9eb450 "PDF" %}})
 
 Boston Harbor Cruise Information
 --------------------------------
