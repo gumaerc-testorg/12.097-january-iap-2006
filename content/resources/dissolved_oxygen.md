@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/bfec1d2aade7c814f43c4eb138cc4398_dissolved_oxygen.pdf
+file_size: 90964
 file_type: application/pdf
 learning_resource_types:
 - Labs

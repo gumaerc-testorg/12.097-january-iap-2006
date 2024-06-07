@@ -5,6 +5,7 @@ description: This resource discusses about particle velocity, spreading in three
   directionality pattern, Piezo-electric sensor, shallow water propagation, and determining
   the direction of the target.
 file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/68924b352b0b81bb8543ff228ceeab73_acoustics.pdf
+file_size: 132127
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
