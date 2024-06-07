@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on tradeoffs and optimization, and
   hydrostatic pressure.
 file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/db7afdd74f8771a048e40682bb9a399e_homework_1.pdf
+file_size: 82445
 file_type: application/pdf
 learning_resource_types:
 - Assignments
