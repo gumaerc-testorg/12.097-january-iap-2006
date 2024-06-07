@@ -4,6 +4,7 @@ description: This resource discusses about controls, calibration, sample statist
   Gaussian (normal) distribution, data and sensor quality, time and frequency domain,
   and filtering of signals.
 file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/aa2897d5885981bbfe1873a7550d4470_time_series.pdf
+file_size: 565620
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
