@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on sensing vs. sampling, and sensors.
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/029bd775907656f987ba2cf2d5aa92d5_overview.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/029bd775907656f987ba2cf2d5aa92d5_overview.pdf
 file_size: 1609470
 file_type: application/pdf
 learning_resource_types:
