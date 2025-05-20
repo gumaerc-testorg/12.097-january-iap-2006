@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on
-file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/9f2605fb6ed972fec54865efb3384391_homework_2.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/9f2605fb6ed972fec54865efb3384391_homework_2.pdf
 file_size: 106091
 file_type: application/pdf
 learning_resource_types:

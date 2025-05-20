@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about hydrostatic pressure, heat dissipation
   in housings, waves, and forces on bodies in steady flow.
-file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/ea7a5866bdc9d3da8b4de17be55b8682_engg_in_oceanenv.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/ea7a5866bdc9d3da8b4de17be55b8682_engg_in_oceanenv.pdf
 file_size: 43801
 file_type: application/pdf
 learning_resource_types:
