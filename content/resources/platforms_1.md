@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on manned submersibles, remotely operated
   vehicles, and autonomous underwater vehicles.
-file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/e485407f51c652d9af17eba1796fbdc9_platforms_1.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/e485407f51c652d9af17eba1796fbdc9_platforms_1.pdf
 file_size: 1090203
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/8c7b2d370d7258dffcd804fbb1505944_nutriee_biopr.pdf
+file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/8c7b2d370d7258dffcd804fbb1505944_nutriee_biopr.pdf
 file_size: 135748
 file_type: application/pdf
 learning_resource_types:
