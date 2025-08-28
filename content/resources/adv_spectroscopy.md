@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on situ sensors, and spectroscopic
   sensors.
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/dbca0087f2ddcd5044791567aa000690_adv_spectroscopy.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/dbca0087f2ddcd5044791567aa000690_adv_spectroscopy.pdf
 file_size: 1401761
 file_type: application/pdf
 learning_resource_types:

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/5e4d3b04d4fd052a8e1f61ca874c9bc7_nitrate_lab.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/5e4d3b04d4fd052a8e1f61ca874c9bc7_nitrate_lab.pdf
 file_size: 50118
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
