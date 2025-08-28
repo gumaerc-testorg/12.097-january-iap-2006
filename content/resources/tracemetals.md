@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/a31e4f249f4e4971394d11ade6745ba8_tracemetals.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/a31e4f249f4e4971394d11ade6745ba8_tracemetals.pdf
 file_size: 82374
 file_type: application/pdf
 learning_resource_types:

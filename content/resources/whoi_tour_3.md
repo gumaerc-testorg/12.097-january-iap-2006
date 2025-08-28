@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource focuses on deep submergence vehicles, both manned and un-manned.
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/9923430d0bcd164519b854b82d9eb450_whoi_tour_3.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/9923430d0bcd164519b854b82d9eb450_whoi_tour_3.pdf
 file_size: 19880
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

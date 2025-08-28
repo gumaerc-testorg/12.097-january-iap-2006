@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/7ab812e9c775de748df052803127b727_carbon_analytl.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/7ab812e9c775de748df052803127b727_carbon_analytl.pdf
 file_size: 325485
 file_type: application/pdf
 learning_resource_types:
