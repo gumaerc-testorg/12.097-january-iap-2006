@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on deep-sea vehicles, manned diving,
   and unmanned diving.
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/25fefa8cce78896ec003e22327e1eb7a_platforms_2.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/25fefa8cce78896ec003e22327e1eb7a_platforms_2.pdf
 file_size: 1491250
 file_type: application/pdf
 learning_resource_types:

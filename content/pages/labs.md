@@ -2,7 +2,7 @@
 content_type: page
 description: This section contains the list of suggestions during the lab.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 18daab92-08d5-e90d-5bc5-b809a615cca4

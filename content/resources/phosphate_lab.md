@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/00f99f76575f6238d9407fe38b19fd86_phosphate_lab.pdf
+file: /ol-ocw-studio-app/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/00f99f76575f6238d9407fe38b19fd86_phosphate_lab.pdf
 file_size: 132203
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
