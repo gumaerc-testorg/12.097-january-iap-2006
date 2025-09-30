@@ -40,7 +40,7 @@
     "website": "12-097-chemical-investigations-of-boston-harbor-january-iap-2006"
   },
   "course_title": "Chemical Investigations of Boston Harbor",
-  "course_description": "This is an undergraduate introductory laboratory subject in ocean chemistry and measurement. There are three main elements to the course: oceanic chemical sampling and analysis, instrumentation development for the ocean environment, and the larger field of ocean science.\n\nThis course is offered through The [MIT/WHOI Joint Program](http://web.mit.edu/mit-whoi/www/). The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
+  "course_description": "This is an undergraduate introductory laboratory subject in ocean chemistry and measurement. There are three main elements to the course: oceanic chemical sampling and analysis, instrumentation development for the ocean environment, and the larger field of ocean science.\n\nThis course is offered through The {{% resource_link \"a110936f-93e9-4bd2-b3a8-e1bc87c36e84\" \"MIT/WHOI Joint Program\" %}}. The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
   "department_numbers": [
     "12"
   ],
