@@ -29,7 +29,7 @@ Visits to WHOI labs give students the opportunity to learn about current researc
 Boston Harbor Cruise Information
 --------------------------------
 
-What to Bring on {{% resource_link "0952bc17-2bf7-43d9-97f2-f324888065e5" "Tioga Cruise" %}}
+What to Bring on [Tioga Cruise](http://www.whoi.edu/marine/ndsf/research_vessels/CRV/index.html)
 
 The weather can be quite variable out on the water ranging from (relatively) warm and sunny to extremely cold and dank. Sampling is definitely wet, dirty work. Bring clothes that will allow you to work comfortably in any situation. We will give you an exposure suit for work out on deck. This will keep you fairly warm but additional clothes are a good idea.
 
